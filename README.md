@@ -6,7 +6,7 @@
 * Depth: 10 words
 * Flags:
   * Empty: set when the synchronized write pointer is equal to read pointer
-  * Full: Write pointer's MSB is not equal to synchronized read pointer's MSB, 
+  * Full: set when write pointer's MSB is not equal to synchronized read pointer's MSB, 
           while the rest of the bits must be equal.
 -------------------------------------------------------------------------------------
 ### Features
