@@ -1,3 +1,6 @@
 # FIFO
-* Specifications
-** Write speed: 
+### Specifications
+	* Write speed: 400 MHz
+	* Read speed: 40 MHz 
+	* Depth: 10 words
+	
