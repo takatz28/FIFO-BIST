@@ -1,1 +1,3 @@
 # FIFO
+* Specifications
+** Write speed: 
