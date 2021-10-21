@@ -10,7 +10,7 @@
           while the rest of the bits must be equal.
 -------------------------------------------------------------------------------------
 ### Features
-* Utilized 5-bit Johnson counters for clock domain crossing.
+* Utilizes 5-bit Johnson counters for clock domain crossing.
 * BIST features a walking ones pattern generator, controller, ROM, and comparator.
 --------------------------------------------------------------------------------------
 ### Operating Modes
