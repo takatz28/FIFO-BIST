@@ -13,6 +13,7 @@
 * Utilized 5-bit Johnson counters for clock domain crossing.
 * BIST features a walking ones pattern generator, controller, ROM, and comparator.
 
+
 ### Operating Modes
 * If BIST = 1, ring counter outputs are compared to ROM values to ensure no lines are shorted together
 * If BIST = 0, FIFO is in normal operation
